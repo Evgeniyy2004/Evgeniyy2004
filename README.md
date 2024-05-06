@@ -12,7 +12,7 @@
 
 𝕊𝕠𝕔𝕚𝕒𝕝𝕤:
 
-<a href="https://codeforces.com/profile/abobaghoul"> 
+<a href="https://codeforces.com/profile/abobaghoul"> target="_blank"
         <img src=
 "https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
              width = 300> 
