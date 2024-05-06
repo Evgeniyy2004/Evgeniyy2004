@@ -6,11 +6,11 @@
 
 𝕀 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
 
 <p style="text-align: center;">ℍ𝕒𝕧𝕖 𝕤𝕠𝕞𝕖 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 𝕚𝕟:</p> 
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
 
 𝕊𝕠𝕔𝕚𝕒𝕝𝕤:
 
