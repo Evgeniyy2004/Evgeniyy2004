@@ -1,4 +1,4 @@
-### ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋
+### 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 👋
 
 𝕄𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 𝔼𝕧𝕘𝕖𝕟𝕚𝕪.
 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕠𝕗 <a href="https://fintech.tinkoff.ru/academy/"   target="_blank">
