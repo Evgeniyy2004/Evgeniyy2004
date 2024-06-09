@@ -1,7 +1,7 @@
 ### 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 👋
 
 𝕄𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 𝔼𝕧𝕘𝕖𝕟𝕚𝕪.
-𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕠𝕗 <a href="https://fintech.tinkoff.ru/academy/"   target="_blank">
+𝔼𝕩-𝕤𝕥𝕦𝕕𝕖𝕟𝕥 𝕠𝕗 <a href="https://fintech.tinkoff.ru/academy/"   target="_blank">
         𝕋𝕚𝕟𝕜𝕠𝕗𝕗 𝔸𝕔𝕒𝕕𝕖𝕞𝕪
     </a>.
 
