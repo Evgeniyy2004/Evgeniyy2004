@@ -1,5 +1,5 @@
 ## About me
-Ex-student of <a href="https://fintech.tinkoff.ru/academy/" style="text-decoration: none;">T-Bank Academy</a> <br>
+<a href="https://fintech.tinkoff.ru/academy/" style="text-decoration: none;">T-Bank Academy</a> student<br>
 Pursuing a Bachelor's degree in Computer Science<br>
 ICPC enjoyer
 
